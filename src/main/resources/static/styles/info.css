@@ -1,0 +1,22 @@
+body{
+    background-color: #f9f9f9;
+}
+
+.infoTitle{
+    text-align: center;
+    margin-top: 100px;
+    color: gray;
+}
+.backLink{
+    display: block;
+    text-decoration: none;
+    font-weight: 500;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+.backLink:hover{
+    text-decoration: underline;
+}

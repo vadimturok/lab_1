@@ -1,0 +1,32 @@
+body{
+    background-color: #f9f9f9;
+}
+
+.wrapper{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.welcome{
+    text-align: center;
+}
+.welcomeImage{
+    display: block;
+    margin: 0 auto;
+    width: 450px;
+    height: 300px;
+}
+.infoLink{
+    display: block;
+    text-decoration: none;
+    font-weight: 500;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+.infoLink:hover{
+    text-decoration: underline;
+}
